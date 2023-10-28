@@ -5,7 +5,7 @@
     "image": "",
     "email": "kandappanva@snuchennai.edu.in",
     "phone": "",
-    "url": "https://kd357.github.io/al-folio/",
+    "url": "https://kd357.github.io/",
     "summary": "Maduraikaran",
     "location": {
       "address": "Academic building 2",
@@ -27,11 +27,11 @@
       "name": "Department of Computer Science, Shiv Nadar University Chennai",
       "position": "Assistant Professor",
       "url": "https://www.snuchennai.edu.in/",
-      "startDate": "1933-10",
+      "startDate": "2023",
       "endDate": "present",
-      "summary": "High Performance Computing",
+      "summary": "Scientific Computing",
       "highlights": [
-        "Scientific Computing"
+        "High Performance Computing application","Fast Matrix Algorithms"
       ]
     }
   ],
@@ -46,12 +46,12 @@
       "endDate": "2023",
       "score": "",
       "courses": [
-        "Computer Simulation and Modelling, Dynamical Systems"
+        "Computer Simulation and Modelling", "Dynamical Systems"
       ]
     },
     {
       "institution": "Indian Institute of Science Bangalore",
-      "url": "https://math.iitm.ac.in/",
+      "url": "",
       "area": "Scientific Computing",
       "studyType": "PhD",
       "startDate": "2016",
@@ -69,7 +69,7 @@
       "endDate": "2015",
       "score": "",
       "courses": [
-        "Power system Analysis, Control and Techniques"
+        "Power system Analysis", "Power system Control", "Optimization Techniques"
       ]
     }
   ],

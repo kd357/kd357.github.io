@@ -7,6 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-Provisional list of courses to be handled
+Provisional list of courses to be handled this Fall
     - Design and Analysis of Algorithms
     - High Performance Computing
