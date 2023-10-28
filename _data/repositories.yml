@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kandapva
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - SAFRAN-LAB/HODLR3D
+  - SAFRAN-LAB/Hmatrix_2D
+  - SAFRAN-LAB/HODLRdD

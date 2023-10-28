@@ -4,3 +4,7 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"SIAM":
+  url: https://www.siam.org/publications/journals/siam-journal-on-scientific-computing-sisc
+  color: "#00333f"
