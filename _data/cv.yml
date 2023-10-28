@@ -35,12 +35,12 @@
   contents:
     - title: Assitant Professor
       institution: Shiv Nadar University Chennai
-      year: 2023-present
+      year: 2023
       description:
         - Department of Computer Science, School of Engineering 
     - title: Graduate Engineer
       institution: IBM India Pvt Ltd
-      year: July, 2015 - July 2016
+      year: 2015
       description:
         - Software testing (Automation)
 
