@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defend PhD Thesis.
+Successfully defended PhD Thesis.

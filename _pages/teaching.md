@@ -19,5 +19,5 @@ Provisional list of courses to be handled this Fall
 <hr>
 # OCT 2023 - JAN 2024
 
-- [CS1801 Programming in C Lab](https://kd357.github.io/teaching/)
+- [CS1801 Programming in C Lab](https://kd357.github.io/courses/cs1801-odd-2023)
 
