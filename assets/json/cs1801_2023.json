@@ -2,12 +2,12 @@
     {
         "#": "Week 1",
         "Topics": "Introduction; Math header",
-        "Materials": "[@fa-file-pdf-o](https://github.com/)"
+        "Materials": "[\fa-file-pdf-o](https://github.com/)"
     },
     {
         "#": "Week 2",
         "Topics": "Introduction; Math header",
-        "Materials": "<i class="fas fa-table"></i>"
+        "Materials": ""
     },
     {
         "#": "Week 3",
