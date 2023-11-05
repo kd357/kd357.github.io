@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Linux commands
-date: 2023-11-06 
+date: 2023-11-01 
 description: an example of a blog post with table of contents
 tags: programming, essentials
 categories: collection
